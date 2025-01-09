@@ -20,10 +20,10 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
 
 ## 📂 Repository Structure  
 
-- **`01-Introduction-to-Cybersecurity/`**  
+- **`01-Foundations-of-Cybersecurity/`**  
   Portfolio Activity: Draft a professional statement.
 
-- **`02-Play-It-Safe:-Manage-Security-Risks/`**  
+- **`02-Manage-Security-Risks/`**  
   Portfolio Activity: Conduct a security audit
 
 - **`03-Networks-and-Network-Security/`**  
@@ -32,6 +32,18 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
 - **`04-Linux-and-SQL/`**  
   Portfolio Activity: Manage linux permissions
 
+- **`05-Assets,-Threats,-and-Vulnerabilities/`**  
+  Portfolio Activity:
+  
+- **`06-Detection-and-Response/`**  
+  Portfolio Activity:
+  
+- **`07-Automate-Cybersecurity-Tasks-with-Python/`**  
+  Portfolio Activity:
+  
+- **`08-Prepare-for-Cybersecurity-Jobs/`**  
+  Portfolio Activity:
+  
 ---
 
 ## 🚀 Objectives  
