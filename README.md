@@ -26,6 +26,12 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
 - **`02-Play-It-Safe:-Manage-Security-Risks/`**  
   Portfolio Activity: Conduct a security audit
 
+- **`03-Networks-and-Network-Security/`**  
+  Portfolio Activity: Creating cyber security incident report from tcpdump and wireshark, os hardening, network hardening, and using NIST CSF for incident report analysis.
+
+- **`04-Linux-and-SQL/`**  
+  Portfolio Activity: Manage linux permissions
+
 ---
 
 ## 🚀 Objectives  
