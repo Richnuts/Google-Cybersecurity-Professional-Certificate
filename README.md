@@ -7,14 +7,21 @@ This repository is a collection of assignments, projects, and exercises complete
 
 ## 📜 About the Certificate  
 The Google Cybersecurity Professional Certificate equips learners with foundational and in-demand cybersecurity skills, preparing them for roles in the cybersecurity domain. Topics include:  
-- Foundations of Cybersecurity
-- Play It Safe: Manage Security Risks
-- Connect and Protect: Networks and Network Security
-- Tools of the Trade: Linux and SQL
-- Assets, Threats, and Vulnerabilities
-- Sound the Alarm: Detection and Response
-- Automate Cybersecurity Tasks with Python
-- Put It to Work: Prepare for Cybersecurity Jobs
+- Foundations of Cybersecurity — Explore the cybersecurity profession, including significant events that led to the development of the cybersecurity field and its continued importance to organizational operations. Learn about entry-level cybersecurity roles and responsibilities. 
+
+- Play It Safe: Manage Security Risks — Identify how cybersecurity professionals use frameworks and controls to protect business operations, and explore common cybersecurity tools. 
+
+- Connect and Protect: Networks and Network Security — Gain an understanding of network-level vulnerabilities and how to secure networks.
+
+- Tools of the Trade: Linux and SQL — Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL. (This is the course you just completed. Well done!)
+
+- Assets, Threats, and Vulnerabilities — Learn about the importance of security controls and developing a threat actor mindset to protect and defend an organization’s assets from various threats, risks, and vulnerabilities.
+
+- Sound the Alarm: Detection and Response — Understand the incident response lifecycle and practice using tools to detect and respond to cybersecurity incidents.
+
+- Automate Cybersecurity Tasks with Python — Explore the Python programming language and write code to automate cybersecurity tasks.
+
+- Put It to Work: Prepare for Cybersecurity Jobs — Learn about incident classification, escalation, and ways to communicate with stakeholders. This course closes out the program with tips on how to engage with the cybersecurity community and prepare for your job search.
 
 ---
 
@@ -30,7 +37,7 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
   Portfolio Activity: Creating cyber security incident report from tcpdump and wireshark, os hardening, network hardening, and using NIST CSF for incident report analysis.
 
 - **`04-Linux-and-SQL/`**  
-  Portfolio Activity: Manage linux permissions
+  Portfolio Activity: Manage linux permissions and SQL filtering.
 
 - **`05-Assets,-Threats,-and-Vulnerabilities/`**  
   Portfolio Activity:
