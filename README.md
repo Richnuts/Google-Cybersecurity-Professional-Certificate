@@ -13,7 +13,7 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
 
 - Connect and Protect: Networks and Network Security — Gain an understanding of network-level vulnerabilities and how to secure networks.
 
-- Tools of the Trade: Linux and SQL — Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL. (This is the course you just completed. Well done!)
+- Tools of the Trade: Linux and SQL — Explore foundational computing skills, including communicating with the Linux operating system through the command line and querying databases with SQL.
 
 - Assets, Threats, and Vulnerabilities — Learn about the importance of security controls and developing a threat actor mindset to protect and defend an organization’s assets from various threats, risks, and vulnerabilities.
 
@@ -28,19 +28,34 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
 ## 📂 Repository Structure  
 
 - **`01-Foundations-of-Cybersecurity/`**  
-  Portfolio Activity: Draft a professional statement.
+  Portfolio Activity: 
+  - Draft a professional statement.
 
 - **`02-Manage-Security-Risks/`**  
-  Portfolio Activity: Conduct a security audit
+  Portfolio Activity: 
+  - Conduct a security audit
 
 - **`03-Networks-and-Network-Security/`**  
-  Portfolio Activity: Creating cyber security incident report from tcpdump and wireshark, os hardening, network hardening, and using NIST CSF for incident report analysis.
+  Portfolio Activity: 
+  - Analyze network attacks (incidentReport/Wireshark)
+  - Analyze network layer communication (incidentReport/TCPdump)
+  - Apply OS hardening techniques (OSHardening).
+  - Analysis of network hardening (Network hardening).
+  - Use the NIST Cybersecurity Framework to respond to a security incident (NISTCSF).
 
 - **`04-Linux-and-SQL/`**  
-  Portfolio Activity: Manage linux permissions and SQL filtering.
+  Portfolio Activity: 
+  - Manage linux permissions
+  - SQL filtering.
 
 - **`05-Assets,-Threats,-and-Vulnerabilities/`**  
-  Portfolio Activity:
+  Portfolio Activity: 
+  - Improve authentication, authorization, and accounting for a small business (AccessControl).
+  - Determine appropriate data handling practices (DataLeak).
+  - Classify the assets connected to a home network (HomeAssetInventory).
+  - Score risks based on their likelihood and severity (RiskRegister).
+  - Analyze a vulnerable system for a small business (VulnerabilityAssessment).
+  - Identify the attack vectors of a USB drive (LostUSB).
   
 - **`06-Detection-and-Response/`**  
   Portfolio Activity:
