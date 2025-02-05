@@ -56,12 +56,18 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
   - Score risks based on their likelihood and severity (RiskRegister).
   - Analyze a vulnerable system for a small business (VulnerabilityAssessment).
   - Identify the attack vectors of a USB drive (LostUSB).
+  - Apply the PASTA threat model framework (PASTA).
   
 - **`06-Detection-and-Response/`**  
   Portfolio Activity:
+  - Document an incident with an incident handler's journal (Journal).
+  - Research network protocol analyzers (TCPDumpVSWireShark).
+  - Investigate a suspicious file hash (FileHash).
+  - Use a playbook to respond to a phishing incident (Phising).
   
 - **`07-Automate-Cybersecurity-Tasks-with-Python/`**  
   Portfolio Activity:
+  - N/A
   
 - **`08-Prepare-for-Cybersecurity-Jobs/`**  
   Portfolio Activity:
