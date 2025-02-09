@@ -67,7 +67,7 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
   
 - **`07-Automate-Cybersecurity-Tasks-with-Python/`**  
   Portfolio Activity:
-  - N/A
+  - Update a file through a Python algorithm (Algorithm)
   
 - **`08-Prepare-for-Cybersecurity-Jobs/`**  
   Portfolio Activity:
