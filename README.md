@@ -71,7 +71,8 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
   
 - **`08-Prepare-for-Cybersecurity-Jobs/`**  
   Portfolio Activity:
-  
+  - Explore cybersecurity organizations (Organization)
+  - Create or update a resume (Not Included)
 ---
 
 ## 🚀 Objectives  
