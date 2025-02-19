@@ -73,6 +73,8 @@ The Google Cybersecurity Professional Certificate equips learners with foundatio
   Portfolio Activity:
   - Explore cybersecurity organizations (Organization)
   - Create or update a resume (Not Included)
+  - Use the STAR method to answer interview questions (STAR)
+  - Draft an elevator pitch (Pitch)
 ---
 
 ## 🚀 Objectives  
